@@ -1,0 +1,7 @@
+name: ClockMe
+version: '${version}'
+main: me.alumber.clockme.ClockMe
+api-version: '1.20'
+prefix: [ClockMe]
+depend: [ProtocolLib]
+authors: [Alumber]
